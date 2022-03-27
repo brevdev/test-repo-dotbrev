@@ -1,2 +1,2 @@
-echo "setup script ran"
+echo "repo setup script ran"
 
